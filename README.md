@@ -1,6 +1,6 @@
 # Pi Agent Kit for Docker Sandboxes
 
-Run the [Pi coding agent](https://pi.dev) as a first-class agent in Docker AI Sandboxes.
+Run the [Pi coding agent](https://pi.dev) as a first-class agent in [Docker AI Sandboxes](https://docs.docker.com/ai/sandboxes/customize/kits/).
 
 ## Setup
 
